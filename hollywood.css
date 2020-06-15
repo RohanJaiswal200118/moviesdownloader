@@ -1,0 +1,52 @@
+.kj{
+    background-color:grey;
+}
+
+
+
+
+.l2 {
+    width: 800px;
+    height: 70px;
+    cursor: pointer;   
+}
+
+body {
+    width: 800px;
+    float:right;
+    padding-right: 350px;
+    color:black;
+     background-image:url(bckgrnd.jpg);
+    background-size:contain;
+}
+    
+    
+        
+}
+
+.ho {
+    background-color:antiquewhite;
+}
+   
+
+
+.kl {
+    width: 100% ;
+    height: 70px;
+    text-decoration: none;
+    float: left;
+    background-color: #0001 ;
+    font-size: 15px;
+}
+.kl a{
+    text-decoration: none;
+    float: left;
+    padding: 29px 17.5px
+    
+}
+.kl a:hover{
+    background-color: aliceblue;
+    
+}
+
+

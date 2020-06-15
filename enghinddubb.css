@@ -1,0 +1,35 @@
+
+body {
+    width: 800px;
+    float: right;
+    padding-right: 360px;
+    background-image:url(bckgrnd.jpg);
+    background-size:contain;
+}
+
+
+.er {
+    width:800px;
+    height:70px;
+    cursor: pointer;
+
+}
+.og {
+    background-color:grey;
+}
+
+.oql {
+    width: 800px;
+    height: 80px;
+    background-color:;
+}
+.oql a{
+     float:left;
+    text-decoration: none;
+    padding: 32px 13.3px;
+    background-color: #0003;
+        
+}
+.oql a:hover{
+    background-color: aliceblue;
+}
